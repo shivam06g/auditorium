@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "62f206fb51f34884e7a6f35b"
+  },
+  "email": "aaash@kuk.ac.in",
+  "encry_password": "9368590dc9b40f48743fc45d8c3ec61f6e77d2d3460c86ba944dda950f98c30a",
+  "salt": "code4o4sih",
+  "Name": "Sonia",
+  "PhoneNumber": "1234567894",
+  "Designation": "sss",
+  "createdAt": {
+    "$date": "2022-08-09T07:04:27.848Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-15T16:12:12.990Z"
+  },
+  "__v": 0
+}]

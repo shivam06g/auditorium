@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "62f3f9c7217091d3ad50accf"
+  },
+  "Designation": "owner",
+  "Institute": "UIET",
+  "InstitueType": "chutiya",
+  "State": "haryana",
+  "City": "Kanpur",
+  "ZipCode": "12345",
+  "email": "gg@kuk.ac.in",
+  "encry_password": "9368590dc9b40f48743fc45d8c3ec61f6e77d2d3460c86ba944dda950f98c30a",
+  "salt": "code4o4sih",
+  "createdAt": {
+    "$date": "2022-08-10T18:32:39.662Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-15T16:14:20.913Z"
+  },
+  "__v": 0,
+  "instituteid": "C407",
+  "name": "AAkash",
+  "phonenumber": "1234567894"
+}]

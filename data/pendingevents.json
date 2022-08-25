@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6306fdb2d26d3d93bfe74746"
+  },
+  "title": "sample",
+  "confirmationbyinstitute": false,
+  "confirmationbyaicte": false,
+  "eventname": "sample sample",
+  "eventdetail": "sample sample sample sample",
+  "eventdate": {
+    "$date": "2022-12-02T00:00:00Z"
+  },
+  "organisation": "sample",
+  "noofparticipants": 27,
+  "duration": 2,
+  "userid": {
+    "$oid": "62f3fd84d1d24b368b06cbf5"
+  },
+  "auditoriumid": {
+    "$oid": "62f3fd84d1d24b368b06cbf6"
+  },
+  "canteenid": {
+    "$oid": "62f3fd84d1d24b368b06cbf6"
+  },
+  "typeOfEvent": "fdp",
+  "eventexpenditure": "12000",
+  "tada": "100",
+  "other": "2300",
+  "total": "300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6307012702937831db15b318"
+  },
+  "title": "sample",
+  "confirmationbyinstitute": false,
+  "confirmationbyaicte": false,
+  "eventname": "sample sample",
+  "eventdetail": "sample sample sample sample",
+  "eventdate": {
+    "$date": "2022-12-02T00:00:00Z"
+  },
+  "organisation": "sample",
+  "noofparticipants": 27,
+  "duration": 2,
+  "userid": {
+    "$oid": "62f3fd84d1d24b368b06cbf5"
+  },
+  "auditoriumid": {
+    "$oid": "62f3fd84d1d24b368b06cbf6"
+  },
+  "canteenid": {
+    "$oid": "62f3fd84d1d24b368b06cbf6"
+  },
+  "typeofevent": "fdp",
+  "eventexpenditure": "12000",
+  "tada": "100",
+  "other": "2300",
+  "total": "300",
+  "instituteid": "c407",
+  "__v": 0
+}]

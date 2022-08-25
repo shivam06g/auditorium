@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "62f3fd84d1d24b368b06cbf5"
+  },
+  "Name": "Sonia",
+  "PhoneNumber": "1234567894",
+  "Designation": "owner",
+  "email": "gg@kuk.ac.in",
+  "encry_password": "9368590dc9b40f48743fc45d8c3ec61f6e77d2d3460c86ba944dda950f98c30a",
+  "salt": "code4o4sih",
+  "InstituteId": "C407",
+  "createdAt": {
+    "$date": "2022-08-10T18:48:36.985Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-15T16:13:29.497Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fa6586f89dc34ba131237e"
+  },
+  "Name": "AAkash",
+  "PhoneNumber": "8750043604",
+  "Designation": "owner",
+  "email": "g1g@kuk.ac.in",
+  "encry_password": "9368590dc9b40f48743fc45d8c3ec61f6e77d2d3460c86ba944dda950f98c30a",
+  "salt": "code4o4sih",
+  "InstituteId": "C407",
+  "createdAt": {
+    "$date": "2022-08-15T15:25:58.046Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-15T15:25:58.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6307021902937831db15b31a"
+  },
+  "name": "AAkash",
+  "phonenumber": "8750043604",
+  "designation": "owner",
+  "email": "g2g@kuk.ac.in",
+  "encry_password": "9368590dc9b40f48743fc45d8c3ec61f6e77d2d3460c86ba944dda950f98c30a",
+  "salt": "code4o4sih",
+  "instituteid": "C407",
+  "qualification": "B.tech",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2022-08-25T05:01:13.632Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-25T05:01:13.632Z"
+  },
+  "__v": 0
+}]
